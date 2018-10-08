@@ -12,6 +12,7 @@ public class Main {
         double ivestasSkaicius = sc.nextInt();
         System.out.println("Ivestas skaicius : " + ivestasSkaicius);
         kvardratokelimas (ivestasSkaicius);
+
     }
     public static void kvardratokelimas (double ivestasSkaicius){
         System.out.println("Skaiciaus kvadratas:" + (ivestasSkaicius*ivestasSkaicius));
