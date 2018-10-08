@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
         System.out.println("labas iveskite skaiciu");
         Scanner sc= new Scanner(System.in);
-        int a = sc.nextInt();
-        System.out.println("Ivestas skaicius : " + a);
+        int ivestasSkaicius = sc.nextInt();
+        System.out.println("Ivestas skaicius : " + ivestasSkaicius);
     }
 }
